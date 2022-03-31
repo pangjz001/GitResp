@@ -7,5 +7,6 @@ package com.jbf;
  * @version: 1.0
  */
 public class student {
-
+    private int age;
+    private String name;
 }
