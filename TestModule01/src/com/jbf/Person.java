@@ -11,4 +11,5 @@ public class Person {
     private String name;
     private double height;
     private double price;
+    private int number;
 }
